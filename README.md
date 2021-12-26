@@ -10,7 +10,7 @@ Welcome to my github profile! There isn't much here other than this readme file 
 ## Coding/Markdown Language Knowledge
 - JS (Learning)
 - Html
-- CSS (Learning)
+- CSS
 
 ## Current Projects
 - TydiumCraft (Owner)
