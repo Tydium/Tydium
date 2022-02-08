@@ -6,9 +6,9 @@
 - Im pretty chill 😎
 
 ## Coding/Markdown Language Knowledge
-- JS (Learning)
+- JS
 - Html
-- CSS
+- CSS (working on it.)
 
 ## Current Projects
 - TydiumCraft (Minecraft Server - Owner)
