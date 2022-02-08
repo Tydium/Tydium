@@ -3,9 +3,7 @@ Welcome to my github profile! There isn't much here other than this readme file 
 ## About me!
 - Male
 - He/Him
-- Bisexual
-- Not a very good developer (:
-- Content Creator (kinda)
+- Im pretty chill 😎
 
 ## Coding/Markdown Language Knowledge
 - JS (Learning)
@@ -14,8 +12,6 @@ Welcome to my github profile! There isn't much here other than this readme file 
 
 ## Current Projects
 - TydiumCraft (Owner)
-- ??? (Can't say this yet)
-
-## Things I work on personally
-- Pixel Enforcer (Discord Bot)
+- TydiumCraft API (Developer)
+- Pixel Enforcer (Bot Developer)
 
