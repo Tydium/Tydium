@@ -3,9 +3,10 @@
 ## About me!
 - Male
 - He/Him
+- American
 - I usually keep to myself. I don't like to bother people or anything.
 - I like to observe my situations first before going into depth.
-- Generally a nice person (Atleast I think)
+- I like to be nice, so please don't piss me off 😄
 - I like to keep it real with you. (No Bullshit)
 - I like to get my work done quickly and efficiently. I won't let anything go more than a week. If I do it's probably a bigger project.
 
