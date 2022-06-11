@@ -12,11 +12,13 @@
 
 ## What I can do?
 - Javascript
-- Webdesign (HTML/CSS)
+- HTML
+- CSS
+- Learning PHP
+- Learning Java (I hate Java so far....)
 - Discord Bot Development
 - Community Management
 - Photoshop (Not an expert, but I can definitely make some decent edits)
-- Learning Java (I hate Java so far....)
 
 ## What I am involved in.
 - TydiumCraft (Minecraft Server - Owner)
@@ -27,3 +29,4 @@
 - Geyserconnect (Moderator)
 - Endless Skyblock (Discord Bot Developer)
 - (Can't Say this yet) (Texture Pack Creator)
+- Starlnn Studios (Developer)
