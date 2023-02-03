@@ -1,4 +1,5 @@
 # Hello! I'm Tydium!
+![image](https://user-images.githubusercontent.com/67938521/216716690-9d29512b-f356-46f6-824a-e71c99446ed4.png)
 
 ## About me!
 - Male
