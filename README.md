@@ -19,12 +19,7 @@
 - Photoshop (Not an expert, but I can definitely make some decent edits)
 
 ## What I am involved in.
-- TydiumCraft (Minecraft Server - Owner)
-- TydiumCraft API (Developer)
+- TydiumCraft API (Owner - Developer)
 - Pixel Enforcer (Discord Bot - Main Developer)
 - Beatz Discord Bot (Developer)
-- SkyEternal (Minecraft Server - System Admin) (SkyEternal has been merged into TydiumCraft)
 - Geyserconnect (Moderator)
-- Endless Skyblock (Discord Bot Developer)
-- (Can't Say this yet) (Texture Pack Creator)
-- Starlnn Studios (Developer)
