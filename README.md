@@ -21,6 +21,6 @@
 
 ## What I am involved in.
 - TydiumCraft API (Owner - Developer)
-- Pixel Enforcer (Discord Bot - Main Developer)
 - Beatz Discord Bot (Developer)
+- Pixel Enforcer (Discord Bot - Main Developer)
 - Geyserconnect (Moderator)
