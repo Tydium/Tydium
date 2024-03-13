@@ -25,7 +25,8 @@
 - TavernMC (Resource Pack Developer)
 - TheMythSMP (Resource Pack Developer)
 - ZedarMC (Resource Pack Developer)
-- PRIMAL (Resource Pack Developer)  
+- PRIMAL (Resource Pack Developer)
+- MC-Blaze (Resource Pack Developer)  
 - Geyserconnect (Moderator)
 
 ## Here's my desktop background.
