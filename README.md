@@ -21,12 +21,12 @@
 - TydiumCraft (Owner)
 - TydiumCraft API (Owner - Developer)
 - Beatz Discord Bot (Co-Owner - Developer)
-- BossCraft (Resource Pack Developer)
-- TavernMC (Resource Pack Developer)
-- TheMythSMP (Resource Pack Developer)
+- CosmosMC (Resource Pack Developer)
 - ZedarMC (Resource Pack Developer)
-- PRIMAL (Resource Pack Developer)
-- MC-Blaze (Resource Pack Developer)  
+- TavernMC (Resource Pack Developer)
+- ChillSMP (Resource Pack Developer)
+- MC-Blaze (Resource Pack Developer)
+- PRIMAL (Resource Pack Developer)  
 - Geyserconnect (Moderator)
 
 ## Here's my desktop background.
